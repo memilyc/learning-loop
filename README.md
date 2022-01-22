@@ -1,6 +1,6 @@
 # Learning Loop
 
-This project is the home of Emily's Learning Loop entries. 
+This project is the home of Emily's [Learning Loop](https://www.learningloop.org/) entries. 
 
 ## Week 1: Stripe Checkout
 
@@ -22,3 +22,4 @@ Demo: https://memilyc.github.io/learning-loop/checkout.html
 
 
 *Coming soon...*
+
