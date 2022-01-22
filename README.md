@@ -13,7 +13,12 @@ This project is the home of Emily's Learning Loop entries.
 >
 > In the pull request, make sure to include links that you used that was helpful to your solution as well as any explanation of decisions or future improvements you'd like to do to make it better.
 
-Details: https://github.com/memilyc/learning-loop/pull/1
+Details: https://github.com/memilyc/learning-loop/pull/1 
 Demo: https://memilyc.github.io/learning-loop/checkout.html
 
+![Week 1 Demo](https://github.com/memilyc/learning-loop/blob/main/week1demo.mov.gif?raw=true)
+
 ## Week 2: Coming soon...
+
+
+*Coming soon...*
