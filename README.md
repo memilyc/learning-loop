@@ -2,7 +2,7 @@
 
 This project is the home of Emily's Learning Loop entries. 
 
-### Week 1: Stripe Checkout
+## Week 1: Stripe Checkout
 
 > **How would you build a Stripe checkout with as little code as possible?**
 >
@@ -12,3 +12,8 @@ This project is the home of Emily's Learning Loop entries.
 > **Create a pull request on an existing github repository that showcase the implementation.**
 >
 > In the pull request, make sure to include links that you used that was helpful to your solution as well as any explanation of decisions or future improvements you'd like to do to make it better.
+
+Details: https://github.com/memilyc/learning-loop/pull/1
+Demo: https://memilyc.github.io/learning-loop/checkout.html
+
+## Week 2: Coming soon...
